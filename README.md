@@ -1,3 +1,15 @@
+# hello-react-redux-ts
+
+To create a project:
+
+```sh
+npx create-react-app hello-react-redux-ts --typescript
+yarn add redux react-redux
+yarn add -D @types/react-redux
+```
+
+----
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
